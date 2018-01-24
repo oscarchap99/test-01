@@ -1,0 +1,12 @@
+@charset 'utf8';
+
+html {
+    background-color: orange;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: fantasy;
+    color: greenyellow;
+    font-size: 500%;
+}
